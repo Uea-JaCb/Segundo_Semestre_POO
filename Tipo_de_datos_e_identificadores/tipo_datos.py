@@ -28,4 +28,4 @@ if es_valido:
     area = calcular_area_rectangulo(base, altura)
     print(f"\nEl área del rectángulo es: {area} cm²")
 else:
-    print("\nError: La base y la altura deben ser números positivos.")
+    print("\nError: Corrija por favor la base y la altura deben ser números positivos.")
