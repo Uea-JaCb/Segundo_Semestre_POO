@@ -155,7 +155,7 @@ def interfaz_principal():
         try:
             seleccion = input("Ingrese el número de opción: ")
             if seleccion == '6':
-                print("Saliendo del sistema.")
+                print("Saliendo del sistema de gestión.")
                 break
             elif seleccion == '1':
                 id_nuevo = input("Ingrese el ID único del producto: ")
