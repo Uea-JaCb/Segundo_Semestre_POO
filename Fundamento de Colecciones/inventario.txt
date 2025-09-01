@@ -1,0 +1,3 @@
+PB001,Laptop,15,799.9
+PB002,Procesador Ryzen 7 Series 7000,10,370.5
+PB003,Procesador Core Ultra 7 ,10,380.9
